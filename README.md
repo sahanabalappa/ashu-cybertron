@@ -1,6 +1,6 @@
 ## Hi there 👋<br>
-### - 🔭 I’m currently working on : Docker , Kubernetes , Jenkins , AWS , GCP , FLutter , Ansible ,  <br>
-### - 🌱 I’m currently learning :  Ansible , Flutter .<br>
+### - 🔭 I’m currently working on : Java , Python, Docker , Kubernetes , Jenkins , AWS , GCP , FLutter , Ansible ,  <br>
+### - 🌱 I’m currently learning :  Web development , Ansible , Flutter .<br>
 /*# - 👯 I’m looking to collaborate on : <br>*/
 ### - 🤔 I’m looking for help with : new Job / Internship opportunity<br>
 ### - 💬 Ask me about : DEvOps , Cloud , Machine Learning ,  Ansible  , Flutter<br>
