@@ -1,6 +1,6 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
 Python | C++ | Java | HTML | CSS
-
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqpE5iukAAhg/profile-displaybackgroundimage-shrink_350_1400/0/1605892565295?e=1613606400&v=beta&t=P753GZCoAjrkik6bqiBN_LaZkUzUJCxykWvNLCdauDA">
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -47,7 +47,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashu-cybertron&show_icons=true&theme=gotham" alt="Ashutosh Kumar Sah | Stats" />
 
 </details>
 
