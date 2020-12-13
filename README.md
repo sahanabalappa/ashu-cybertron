@@ -1,4 +1,4 @@
-# [Ayushi Rawat](https://ashutoshk.vision)
+# [Ashutosh Kumar Sah](https://ashutoshk.vision)
 Python | C++ | Java | HTML | CSS
 
 
