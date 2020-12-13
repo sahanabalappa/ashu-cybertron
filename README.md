@@ -1,5 +1,5 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
-Python | C++ | Java | HTML | CSS
+ Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqpE5iukAAhg/profile-displaybackgroundimage-shrink_350_1400/0/1605892565295?e=1613606400&v=beta&t=P753GZCoAjrkik6bqiBN_LaZkUzUJCxykWvNLCdauDA">
 
 <p align="center">
