@@ -61,7 +61,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 
 [twitter]: https://twitter.com/Ashutoshanand01
 [youtube]: https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg
-[Hashnode]: https://techsfortalk.me
+[Hashnode]: https://hashnode.com/@ashutoshk
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ashutosh_k1/
 [Medium]: https://ashutosh-k.medium.com/
