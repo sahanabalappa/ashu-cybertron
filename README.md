@@ -17,7 +17,6 @@
 
 <a href="https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-github-metrics" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=light" alt="GitHub Metrics - Customize your profile with various plugins and metrics | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-![Metrics](https://metrics.lecoq.io/ashu-cybertron?template=classic&config.timezone=Asia%2FCalcutta)
  
 * Primary coding language: Java.
 * I’m currently working on my [portfolio](https://ashutoshk.vision).
@@ -34,7 +33,7 @@
 * Join my [Discord server](https://discord.gg/KAcCCUXqTY) | [Telegram Channel](https://t.me/techsfortalk)
 * 🏠 Hogwarts House: Griffindor
 
-
+![Metrics](https://metrics.lecoq.io/ashu-cybertron?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta)
 <table><tr><td valign="top" width="50%">
 
 ### My Digital Garden 🌱
